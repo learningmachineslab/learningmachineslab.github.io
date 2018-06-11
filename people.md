@@ -4,11 +4,10 @@ title: "People"
 ---
 
 ## Marky D.
+<br>
 <img style="float: right;" width="260" src="/assets/markyd.jpg">
+<br>
 Marky D started in the southside of philly before he moved to be air. his talents include doing nothing and doing something.
-<!--
-![marky d on the wayside](/assets/markyd.jpg)
--->
 
 ***
 

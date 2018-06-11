@@ -1,7 +1,7 @@
 ---
 title: github
 redirect_to:
- -https://github.com/learningmachineslab
+ - https://github.com/learningmachineslab
 ---
 
 If this link doesn't automatically re-direct you to slack [click here](https://github.com/learningmachineslab).
