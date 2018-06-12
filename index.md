@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: home
+title: Welcome
 ---
 ### Solving Discipline Based Education Research Problems With Machine Learning
 
