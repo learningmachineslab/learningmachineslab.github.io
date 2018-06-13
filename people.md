@@ -32,3 +32,9 @@ I have also directed a short film on scientific modeling that has over 20k views
 ***
 
 # Undergraduate/REU Students
+
+## Lyssa 'The Boss' Waterson
+<br>
+<img style="float: right;" width="260" src="/assets/mob boss.jpg">
+<br>
+I am an Undergraduate Researcher and Learning Assistant at Michigan State University, working in collaboration with both the Physics Education Research Lab at MSU and with the Computational Science group at the University of Oslo. My research has been both quantitative and qualitative – I have developed a model of ‘how to plan to solve a problem’ in a group-based learning curriculum, and as well I am developing a model of how to analyze students with transfer credits at MSU using Python. I have been a part of the research community for two years and graduate with a bachelor’s degree in Physics in Fall 2018.
