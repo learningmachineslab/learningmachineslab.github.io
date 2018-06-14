@@ -13,6 +13,11 @@ Associate Professor Danny Caballero is an outstanding researcher and teacher wit
 
 ***
 # Post-Docs
+## Rae-Rae
+<br>
+<img style="float: right;" width="260" src="/assets/raerae.png">
+<br>
+ Rachel Henderson is a postdoctoral researcher in the Department of Physics and Astronomy at Michigan State University (MSU). Working in the Physics Education Research Lab (PERL) at MSU, her research focus is on developing formal structures to support transformed physics laboratories while developing assessment tools and practices for understanding student learning in these laboratory courses. Rachel recently finished her doctoral work in the Department of Physics & Astronomy at West Virginia University where she focused her research on exploring how classroom diversity and inclusion impacted student performance on the most commonly used conceptual physics assessments in the introductory physics classroom.
 
 ***
 
@@ -23,7 +28,7 @@ Associate Professor Danny Caballero is an outstanding researcher and teacher wit
 <img style="float: right;" width="260" src="/assets/johnnym.jpg">
 <br>
 My research has focused on micro problems of education research (how students learn and engage during single activities or experiences) up to macro problems of education research (how students make decisions across courses or degree programs). My work in understanding how high school students conceive computational models was part of the basis for a teacher professional development program that engaged 40+ Atlanta area high school physics teachers. I also investigated how students in Massive Open Online Courses interact with different course materials focusing on video lectures. This work led to several publications. My current work focuses on how students in STEM majors make decisions to stay in their major, switch to other STEM majors, or leave STEM altogether. This work fills a crucial gap in the research literature as it is wholly quantitative.
-I have also directed a short film on scientific modeling that has over 20k views on YouTube and is shown as an introduction in some American high school physics classrooms.
+I have also directed [a short film on scientific modeling](http://youtu.be/dkTncoPqo5Y) that has over 20k views on YouTube and is shown as an introduction in some American high school physics classrooms.
 
 ***
 
