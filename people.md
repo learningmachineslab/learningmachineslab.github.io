@@ -32,6 +32,14 @@ Associate Professor Danny Caballero is an outstanding researcher and teacher wit
 My research has focused on micro problems of education research (how students learn and engage during single activities or experiences) up to macro problems of education research (how students make decisions across courses or degree programs). My work in understanding how high school students conceive computational models was part of the basis for a teacher professional development program that engaged 40+ Atlanta area high school physics teachers. I also investigated how students in Massive Open Online Courses interact with different course materials focusing on video lectures. This work led to several publications. My current work focuses on how students in STEM majors make decisions to stay in their major, switch to other STEM majors, or leave STEM altogether. This work fills a crucial gap in the research literature as it is wholly quantitative.
 I have also directed [a short film on scientific modeling](http://youtu.be/dkTncoPqo5Y) that has over 20k views on YouTube and is shown as an introduction in some American high school physics classrooms.
 
+### Little Nicky
+
+[google scholar](https://scholar.google.com/citations?user=h90_jd4AAAAJ&hl=en&oi=sra)
+
+<img style="float: right;" width="100" src="/assets/keanu-reeves-2000.jpg">
+
+Nick Young is a physics graduate student at Michigan State University. His research is focused on applying machine learning methods to educational data. Currently, he is investigating factors that are predictive of whether a physics faculty member will include computation in their course. As an undergraduate at (The) Ohio State University, he investigated hierarchies in student understanding of period, frequency, and angular frequency. It was there that he first learned to use R and now spends a considerable amount of time convincing the rest of the team to use R as well.
+
 ***
 
 ## MS Students
