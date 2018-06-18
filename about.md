@@ -1,18 +1,14 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: index.html
 ---
+### Solving Discipline Based Education Research Problems With Machine Learning
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We are building a research activity using modern analytical tools such as machine learning network analysis, natural language processing, and simulation to research science education.  We are opening a whole new toolbox of analytical methods and apply them on new datasets such as registrar data, concept inventories, classroom participating, student coding and interactions with web platforms.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This project is led by an interdisciplinary team of professional experts based on data science and discipline based education research. Our team consists of professors,  post-docs, PhD fellows, master students and undergraduate research students. The team is based on a collaboration between the [Center for Computing in Science Education (CCSE)](http://www.mn.uio.no/ccse/english/) and the internationally leading [Physics Education Research Lab at Michigan State University (MSU)](https://perl.natsci.msu.edu/). 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Would you like to collaborate with us? Please [contact us!](/contact)
 
-
-[jekyll-organization]: https://github.com/jekyll
+This group is generously supported by the Michigan State University College of Natural Science, the Thon Foundation, and the Norwegian Center for Excellence in Education in Computing in Science Education.
