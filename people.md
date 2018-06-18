@@ -14,6 +14,7 @@ Associate Professor Danny Caballero is an outstanding researcher and teacher wit
 ***
 # Post-Docs
 ## Rae-Rae
+[google scholar](https://scholar.google.no/citations?user=EKcStJoAAAAJ&hl=en)
 <br>
 <img style="float: right;" width="260" src="/assets/raerae.png">
 <br>
