@@ -4,7 +4,7 @@ title: "People"
 ---
 
 ## Principal Investigators
-### Marky D.
+### Danny Caballero (Marky D.)
 [google scholar](https://scholar.google.no/citations?user=hvB9_XkAAAAJ&hl=en)
 
 <img style="float: right;" width="200" src="/assets/markyd.jpg">
@@ -14,7 +14,7 @@ Associate Professor Danny Caballero is an outstanding researcher and teacher wit
 ***
 
 ## Post-Docs
-### Rae-Rae
+### Rachel Henderson (Rae-Rae)
 [google scholar](https://scholar.google.no/citations?user=EKcStJoAAAAJ&hl=en)
 
 <img style="float: right;" width="260" src="/assets/raerae.png">
@@ -24,7 +24,7 @@ Associate Professor Danny Caballero is an outstanding researcher and teacher wit
 ***
 
 ## PhD Students
-### Johnny M.
+### John M. Aiken (Johnny M.)
 [google scholar](https://scholar.google.no/citations?user=OFBaoZEAAAAJ&hl=en)
 
 <img style="float: right;" width="260" src="/assets/johnnym.jpg">
@@ -32,7 +32,7 @@ Associate Professor Danny Caballero is an outstanding researcher and teacher wit
 My research has focused on micro problems of education research (how students learn and engage during single activities or experiences) up to macro problems of education research (how students make decisions across courses or degree programs). My work in understanding how high school students conceive computational models was part of the basis for a teacher professional development program that engaged 40+ Atlanta area high school physics teachers. I also investigated how students in Massive Open Online Courses interact with different course materials focusing on video lectures. This work led to several publications. My current work focuses on how students in STEM majors make decisions to stay in their major, switch to other STEM majors, or leave STEM altogether. This work fills a crucial gap in the research literature as it is wholly quantitative.
 I have also directed [a short film on scientific modeling](http://youtu.be/dkTncoPqo5Y) that has over 20k views on YouTube and is shown as an introduction in some American high school physics classrooms.
 
-### Little Nicky
+### Nick Young (Little Nicky)
 
 [google scholar](https://scholar.google.com/citations?user=h90_jd4AAAAJ&hl=en&oi=sra)
 
@@ -52,13 +52,13 @@ Robert is a Msc. student at the University of Oslo (UiO). His studies are focuse
 
 ## Undergraduate/REU Students
 
-### Lyssa 'The Boss' Waterson
+### Lyssa Waterson ('The Boss')
 
 <img style="float: right;" width="200" src="/assets/mob boss.jpg">
 
 I am an Undergraduate Researcher and Learning Assistant at Michigan State University, working in collaboration with both the Physics Education Research Lab at MSU and with the Computational Science group at the University of Oslo. My research has been both quantitative and qualitative – I have developed a model of ‘how to plan to solve a problem’ in a group-based learning curriculum, and as well I am developing a model of how to analyze students with transfer credits at MSU using Python. I have been a part of the research community for two years and graduate with a bachelor’s degree in Physics in Fall 2018.
 
-### Matt (the One) Ring
+### Matt Ring (the One)
 
 <img style="float: right;" width="200" src="/assets/The-giver-character-posters-brenton-thwaites-jonas.jpg">
 
