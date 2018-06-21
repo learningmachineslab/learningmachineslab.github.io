@@ -7,7 +7,7 @@ title: "People"
 ### Marky D.
 [google scholar](https://scholar.google.no/citations?user=hvB9_XkAAAAJ&hl=en)
 
-<img style="float: right;" width="260" src="/assets/markyd.jpg">
+<img style="float: right;" width="200" src="/assets/markyd.jpg">
 
 Associate Professor Danny Caballero is an outstanding researcher and teacher within physics and science education. He leads the Physics Education Research Lab at Michigan State University and is Professor II at the Center for Computing in Science Education at UiO. He helped start the Georgia Tech Physics Education Research Group in 2007, and has worked on integrating calculations in physics education. His research interests are related to how students learn physics through the use of mathematics, computer calculations and language. He uses cognitive and socio-cultural learning approaches. He is leading a major NSF project, PICUP, where he is working on developing and teaching university teachers in how to teach physics with integrated calculations. He has published a number of scientific works on physics education in general and on the effect of integrating data bills into physics education.
 
@@ -43,8 +43,9 @@ Nick Young is a physics graduate student at Michigan State University. His resea
 ***
 
 ## MS Students
+
 ### Robert Solli
-<img style="float: right;" width="160" src="/assets/robert_as_thor.png">
+<img style="float: right;" width="110" src="/assets/robert_as_thor.png">
 Robert is a Msc. student at the University of Oslo (UiO). His studies are focused on approximate many body methods in physics while his research is in quantitative methods for understanding student performance and behaviour in physics education. So far his research has been in working with data from students interacting with lecture videos.  For his work on student behaviour and in his studies Robert has focused on understanding and applying both traditional and cutting edge machine learning algorithms.
 
 ***
@@ -53,6 +54,12 @@ Robert is a Msc. student at the University of Oslo (UiO). His studies are focuse
 
 ### Lyssa 'The Boss' Waterson
 
-<img style="float: right;" width="260" src="/assets/mob boss.jpg">
+<img style="float: right;" width="200" src="/assets/mob boss.jpg">
 
 I am an Undergraduate Researcher and Learning Assistant at Michigan State University, working in collaboration with both the Physics Education Research Lab at MSU and with the Computational Science group at the University of Oslo. My research has been both quantitative and qualitative – I have developed a model of ‘how to plan to solve a problem’ in a group-based learning curriculum, and as well I am developing a model of how to analyze students with transfer credits at MSU using Python. I have been a part of the research community for two years and graduate with a bachelor’s degree in Physics in Fall 2018.
+
+### Matt (the One) Ring
+
+<img style="float: right;" width="200" src="/assets/The-giver-character-posters-brenton-thwaites-jonas.jpg">
+
+Matthew Ring is an undergraduate researcher working with the Physics Education Research Lab at Michigan State University. Under the supervision of John Aiken and Dr. Caballero, Matt has begun analyzing the impact of introductory chemistry curriculum transformation at Michigan State University. His research focuses on how the change to Chemistry, Life, the Universe and Everything (CLUE) curriculum has impacted future student performance. This transformation’s impact on underrepresented minority students is especially of interest. Much of his work has taken place at Oslo University, but Matt will be graduating from Michigan State University with a B.S. in Physics. Matt also plans to minor in the department of Computational Modeling for Science and Engineers, science policy, and mathematics at Michigan State.
