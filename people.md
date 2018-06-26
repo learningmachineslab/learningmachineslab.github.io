@@ -13,13 +13,19 @@ Associate Professor Danny Caballero is an outstanding researcher and teacher wit
 
 ***
 
-## Post-Docs
+## Post-Docs, Research Scientists, Affiliate Researchers
 ### Rachel Henderson (Rae-Rae)
 [google scholar](https://scholar.google.no/citations?user=EKcStJoAAAAJ&hl=en)
 
 <img style="float: right;" width="260" src="/assets/raerae.png">
 
  Rachel Henderson is a postdoctoral researcher in the Department of Physics and Astronomy at Michigan State University (MSU). Working in the Physics Education Research Lab (PERL) at MSU, her research focus is on developing formal structures to support transformed physics laboratories while developing assessment tools and practices for understanding student learning in these laboratory courses. Rachel recently finished her doctoral work in the Department of Physics & Astronomy at West Virginia University where she focused her research on exploring how classroom diversity and inclusion impacted student performance on the most commonly used conceptual physics assessments in the introductory physics classroom.
+
+### Alexis V. Knaub
+
+<img style="float: right;" width="260" src="/assets/louise.jpeg">
+
+Alexis V. Knaub works as an external evaluator on several grants aimed at improving STEM education. Her research interests include sustaining and changing improvements in postsecondary STEM education from departments to institutions to the DBER field itself. Both this research area and her external evaluation work has allowed her do a variety of studies and use many techniques including: using social network analysis to study faculty and student groups; interviewing key faculty and administration to determine the viability of an innovation; and using concept inventory data to inform class practices. Her teaching backgrounds includes working as a two-year college instructor, working with Learning Assistants, and teaching a pre-practicum for prospective K-12 teachers. Her professional service includes mentoring through the APS National Mentoring Community and the Gates Millennium Scholars. She earned a bachelor's in physics from Smith College, a master's in physics from DePaul University, and a doctorate in science education (focused on physics education) from Boston University's School of Education.
 
 ***
 
