@@ -22,8 +22,12 @@ In 2010(?) the Michigan State University Department of Chemistry transitioned th
 
 1. J. M. Aiken and M. D. Caballero, Methods for analyzing pathways through a physics major, 2016 PERC Proceedings [Sacramento, CA, July 20-21, 2016], edited by D. L. Jones, L. Ding, and A. Traxler, doi:10.1119/perc.2016.pr.002. [[link to pdf]](https://www.compadre.org/per/items/detail.cfm?ID=14186)
 
+***
+
 ## Using machine learning to predict integrating computation into physics courses
 We recently completed a national survey in the United States of America of faculty in physics departments to understand the state of computational instruction and the factors that underlie that instruction. We then used supervised learning to explore the factors that are most predictive of whether a faculty member decides to include computation in their physics courses. We find that personal, attitudinal, and departmental factors vary in usefulness for predicting whether faculty include computation in their courses. We will present the least and most predictive personal, attitudinal, and departmental factors.
+
+***
 
 ## Predicting on campus student performance from video interactions
 In this work, we attempted to predict student performance on a suite of laboratory activities from students’ interactions with associated instructional videos. The students’ performance is measured by a graded presentation for each of four laboratory exercises in an introductory physics course. Each lab exercise was associated with between one and three videos of instructional content. Using video clickstream data we define summary features (number of pauses, seeks) and contextual information (fraction of time played, in-semester order).  These features serve as inputs to machine learning (ML) algorithms that aim to predict student performance on the laboratory exercise presentations.
