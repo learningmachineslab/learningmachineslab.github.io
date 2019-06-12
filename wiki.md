@@ -1,7 +1,7 @@
 ---
 title: wiki
 redirect_to:
- -https://p3server.pa.msu.edu/quantperwiki/doku.php
+ - https://p3server.pa.msu.edu/quantperwiki/doku.php
 ---
 
 If this link doesn't automatically re-direct you to slack [click here](https://p3server.pa.msu.edu/quantperwiki/doku.php). Otherwise ask someone for help.
