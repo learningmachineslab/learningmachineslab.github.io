@@ -7,8 +7,8 @@ title: "People"
 
 The 2019 Learning Machines Lab Summer Internship group!
 
-Across the top: Nils, John (leader), Matt, Danny (leader)
+**Across the top:** Nils, John (leader), Matt, Danny (leader)
 
-Middle row: Robert (leader), Gabriel, Alyssa, Rachel (leader), Anne
+**Middle row:** Robert (leader), Gabriel, Alyssa, Rachel (leader), Anne
 
-Front row: Lucas, Joe, Jenn, Rachel
+**Front row:** Lucas, Joe, Jenn, Rachel
