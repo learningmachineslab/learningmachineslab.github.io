@@ -23,8 +23,8 @@ This is John!
 This is Alyssa!
 
 #### Nick Young (PhD Student, MSU)
-
-This is Nick!
+{% include figure.html image="https://www.nickyoungper.com/images/headshot.jpg" position="left" width="200px" %}
+Nick is a PhD student in the [Department of Physics and Astronomy](https://pa.msu.edu) and the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu). He earned his bachelor's degree in physics and astronomy at (The) [Ohio State University](https://physics.osu.edu/). His research focuses on the graduate admissions process in physics and how best to model educational data. In his free time, he enjoys hiking and reading. His website can be found [here](https://www.nickyoungper.com/).
 
 #### Nils Mikkelsen (Undergraduate Researcher, UiO)
 
